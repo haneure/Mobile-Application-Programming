@@ -1,0 +1,16 @@
+Latihan, Tugas, dan Eksperimen:
+
+https://github.com/haneure/Mobile-Application-Programming
+
+2. Error yang terjadi adalah, error saat angka dikosongkan, karena angka yang di parse untuk menjadi double tidak ada. 
+Cara untuk memperbaikinya dapat dengan memberikan tambahan kondisi untuk membuat angka menjadi suatu angka dummy seperti angka 0 jika user tidak memberikan input apa apa. dan untuk mengatasi divide by zero error pada pembagian, kita dapat memberikan nilai dummy juga seperti angka 0 untuk hasilnya.
+
+3. Kesimpulan setelah mencoba debugging:
+
+- Step over -> hanya menjalankan line sekarang, dan berhenti di line berikutnya.
+
+- Step into -> Jika ada fungsi / method di line sekarang, maka akan masuk ke fungsi tersebut.
+
+- Step out -> semua fungsi/method dijalankan sampai selesai dan kembali ke line step into.
+
+- Resume -> Melanjutkan program seperti biasa. 
