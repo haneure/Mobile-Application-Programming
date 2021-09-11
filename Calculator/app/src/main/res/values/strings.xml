@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="nol">0</string>
+    <string name="satu">1</string>
+    <string name="dua">2</string>
+    <string name="tiga">3</string>
+    <string name="empat">4</string>
+    <string name="lima">5</string>
+    <string name="enam">6</string>
+    <string name="tujuh">7</string>
+    <string name="delapan">8</string>
+    <string name="sembilan">9</string>
+
+    <string name="CE">CE</string>
+    <string name="brackets">()</string>
+    <string name="power">^</string>
+    <string name="bagi">/</string>
+    <string name="hapus">⌫</string>
+    <string name="kali">x</string>
+    <string name="kurang">-</string>
+    <string name="tambah">+</string>
+    <string name="samadengan">=</string>
+    <string name="plusMinus">+/-</string>
+    <string name="koma">,</string>
+
+</resources>
