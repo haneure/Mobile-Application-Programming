@@ -1,0 +1,8 @@
+Kesimpulan:
+1. Intent
+- Intent berguna untuk menambahkan indikasi bahwa suatu tombol / apapun akan melakukan sebuah 'aksi', aksi ini akan diprogram dengan menggunakan sebuah Intent. Aksi ini dapat untuk mengirim pesan ataupun menerima input dengan Extra misalnya. 
+
+
+2. Fragment
+- Fragment berguna untuk mengubah activity beserta dengan fungsi komponennya, jadi kita bisa mengatur apa yang ingin ditampilkan dalam activity dengan fragment.
+

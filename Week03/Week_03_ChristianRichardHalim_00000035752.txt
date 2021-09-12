@@ -1,0 +1,9 @@
+https://github.com/haneure/Mobile-Application-Programming
+
+Kesimpulan yang saya dapati:
+Recycler view saya lihat mirip dengan linkedList dimana aksi yang kita lakukan ada penanda untuk posisi dimana saat ini berada mirip dengan (head, tail, curr). Kemudian indikator / penanda ini bisa digunakan misalnya untuk jadi penanda bahwa pernah diklik, atau sebagainya.
+
+FAB (Floating Action Button) selalu berada di layer paling atas dalam sebuah tampilan, dan tidak bisa di override, contoh tombol ini misalnya pada tombol 'create mail' di aplikasi Gmail.
+
+Kemudian, daftarkataadapter adalah file untuk menjalankan recyclerview dan fungsi tambahan seperti onclick, dsb. Yang dapat ditambahkan untuk berinteraksi dengan komponen yang ada di recyclerview.
+
