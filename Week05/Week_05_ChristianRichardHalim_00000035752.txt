@@ -1,0 +1,7 @@
+Kesimpulan:
+
+CustomView berguna untuk membuat UI dimana isinya nanti dapat kita buat dengan sesuka hati. dalam tutorial ini, customview digunakan sebagai canvas 
+
+Canvas berguna untuk menggambar sesuatu di 'bitmap'. canvas punya berbagai bentuk primitive juga seperti Rect, Path, text, Bitmap, dan warna
+
+Cara android studio menggambar di bitmap itu dengan memiliki titik awal sentuh(ACTION_DOWN), titik akhir sentuh (ACTION_UP), dan juga titik selama disentuh (ACTION_MOVE). dengan menggunakan tiga input tersebut, bentuk primitive tadi digambar di bitmap. 
