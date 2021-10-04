@@ -16,17 +16,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        isiDaftarVideo();
         rvDaftarVideo = (RecyclerView) findViewById(R.id.recyclerView);
         mAdapter = new DaftarVideoAdapter(this, daftarVideo);
         rvDaftarVideo.setAdapter(mAdapter);
         rvDaftarVideo.setLayoutManager(new LinearLayoutManager(this));
     }
-
-    public void isiDaftarVideo() {
+    public void isiDaftarVideo(){
         daftarVideo.add(new SumberVideo("Mini Cooper Drag",
                 "Drag Race Mini Cooper dengan Honda Civic hatchback",
-                "android.resource://" + getPackageName() + "/" +
-                R.raw.mini01));
+                "android.resource://" +getPackageName() + "/"+
+                        R.raw.mini01));
         daftarVideo.add(new SumberVideo("Porcsche 918",
                 "Menikmati mobil sport Porsche 918 Spyder",
                 "android.resource://" +getPackageName() + "/"+

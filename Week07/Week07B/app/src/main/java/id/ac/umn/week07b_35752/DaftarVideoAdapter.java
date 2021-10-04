@@ -45,7 +45,7 @@ public class DaftarVideoAdapter extends RecyclerView.Adapter<DaftarVideoAdapter.
 
     @Override
     public int getItemCount() {
-        return 0;
+        return mDaftarVideo.size();
     }
 
     class ItemVideoViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{

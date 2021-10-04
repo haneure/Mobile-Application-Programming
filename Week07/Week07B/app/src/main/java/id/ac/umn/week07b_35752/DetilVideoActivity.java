@@ -18,7 +18,6 @@ public class DetilVideoActivity extends AppCompatActivity {
     private EditText etUri;
     private Button btnKembali;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,11 +40,12 @@ public class DetilVideoActivity extends AppCompatActivity {
         MediaController controller = new MediaController(this);
         controller.setMediaPlayer(vvDetil);
         vvDetil.setMediaController(controller);
-        btnKembali.setOnClickListener(new View.OnClickListener(){
+        btnKembali.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
                 finish();
             }
         });
     }
+
 }
