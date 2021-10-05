@@ -12,6 +12,9 @@
         <a href="https://stackoverflow.com/questions/11285961/how-to-make-a-background-20-transparent-on-android">Opacity</a> \n
         <a href="https://www.geeksforgeeks.org/implement-form-validation-error-to-edittext-in-android/">Form Validation</a> \n
         <a href="https://www.youtube.com/watch?v=7vWoi8j5vL4">Alert Dialog</a> \n
-        More. . .
+        <a href="https://developer.android.com/training/appbar/actions">Options Menu</a> \n
+        <a href="https://stackoverflow.com/questions/10108774/how-to-implement-the-android-actionbar-back-button">Back Button</a> \n
+        <a href="https://elearning.umn.ac.id/pluginfile.php/18508/mod_resource/content/1/MODUL%20-%20IF570%20PEMROGRAMAN%20APLIKASI%20MOBILE.pdf">Recycler View</a> \n
+        More . . .
     </string>
 </resources>
