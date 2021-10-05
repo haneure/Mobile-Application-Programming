@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">SFX Library and Previewer</string>
+    <string name="nama">Christian Richard Halim</string>
+    <string name="nim">00000035752</string>
+    <string name="kelas">IF 570L - AL</string>
+    <string name="referensi">Referensi: \n
+        <a href="https://stackoverflow.com/questions/2734270/how-to-make-links-in-a-textview-clickable">Hyperlink</a> \n
+        <a href="https://howtodoandroid.com/shapeableimageview-material-components-android/">Rounded Image</a> \n
+        <a href="https://stackoverflow.com/questions/10124919/can-i-draw-rectangle-in-xml/">Rectangle</a> \n
+        <a href="https://stackoverflow.com/questions/1492554/set-transparent-background-of-an-imageview-on-android">Transparent Background</a> \n
+        <a href="https://stackoverflow.com/questions/3307090/how-to-add-background-image-to-activity">Background Image</a> \n
+        <a href="https://stackoverflow.com/questions/11285961/how-to-make-a-background-20-transparent-on-android">Opacity</a> \n
+        <a href="https://www.geeksforgeeks.org/implement-form-validation-error-to-edittext-in-android/">Form Validation</a> \n
+        <a href="https://www.youtube.com/watch?v=7vWoi8j5vL4">Alert Dialog</a> \n
+        More. . .
+    </string>
 </resources>
