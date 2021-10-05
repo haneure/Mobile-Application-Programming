@@ -17,14 +17,16 @@ import android.widget.ImageView;
 
 public class Drawables extends AppCompatActivity {
     AnimationDrawable animasiKuda;
-    ImageView gambarKuda;
-    ImageView umamusume;
+    ImageView gambarKuda, umamusume, click;
     MediaPlayer mediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_drawables);
+
+        click = (ImageView) findViewById(R.id.click);
+        click.setBackgroundResource(R.drawable.click);
 
         gambarKuda = (ImageView) findViewById(R.id.gambarKuda);
         gambarKuda.setBackgroundResource(R.drawable.kuda_lari);
@@ -67,6 +69,7 @@ public class Drawables extends AppCompatActivity {
                     mediaPlayer.start();
                     animasiKuda.start();
                     umamusume.setBackgroundResource(R.drawable.umamusume);
+                    click.setBackgroundResource(0);
                     animation.start();
                 }
 
