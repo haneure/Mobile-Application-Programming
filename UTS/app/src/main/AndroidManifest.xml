@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SFXLibraryAndPreviewer">
         <activity
+            android:name=".Profile"
+            android:exported="true" />
+        <activity
+            android:name=".SFXLibrary"
+            android:exported="true" />
+        <activity
             android:name=".LoginPage"
             android:exported="true" />
         <activity
