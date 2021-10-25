@@ -10,46 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a830adbd-0aaa-48a6-8afb-48c998db89c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week06/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/androidTest/java/id/ac/umn/week06b_35752/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/java/id/ac/umn/week06b_35752/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/drawable/kuda_lari.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/app/src/test/java/id/ac/umn/week06b_35752/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week06/Week06B_35752/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intent/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intent/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Intent/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week[04]-ChristianRichardHalim_35752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UTS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UTS/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Intent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week05" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1820193778">

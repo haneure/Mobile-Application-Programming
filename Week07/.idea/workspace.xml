@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e74cb5-c917-48e3-818d-ab8be6b1f1bc" name="Default Changelist" comment="" />
+    <list default="true" id="f7e74cb5-c917-48e3-818d-ab8be6b1f1bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../UTS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UTS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
